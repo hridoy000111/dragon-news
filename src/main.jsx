@@ -8,7 +8,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
-import HomeLayout from "./layout/homeLayout";
+import HomeLayout from "./layout/HomeLayout";
 import CategoryNews from "./pages/CategoryNews";
 import Authlayout from "./layout/Authlayout";
 import Login from "./pages/Login";
